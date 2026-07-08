@@ -27,12 +27,6 @@ The engine processes historical game logs through a four-phase chronological pip
 The model successfully reconstructs the consensus elite performers of the 2010–2020 era without explicit bias, relying solely on game-play data. It maintains a **0.392 Spearman Rank Correlation** with independent expert rankings, proving the model captures a highly significant, non-random signal of on-ice impact.
 
 ## 📖 Documentation
-For a deep dive into the underlying derivation, hyperparameter selection, and assumptions, see the formal architectural documentation in the `/docs` folder:
-- [Documentation (PDF)]()
+For a deep dive into the underlying derivation, hyperparameter selection, and assumptions, see the formal architectural documentation in the `/docs` folder
 
-## 👤 Author
-**Harnoor** | Data Science & Artificial Intelligence
-*Tier 3 College Undergrad pursuing the intersection of Sports Analytics and Bayesian Statistics.*
-
----
 *Disclaimer: This project is an independent research endeavor aimed at statistical evaluation and predictive modeling.*
