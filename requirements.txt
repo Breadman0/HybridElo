@@ -1,0 +1,16 @@
+# Data Processing and Manipulation
+pandas>=2.2.0
+numpy>=2.0.0
+
+# Mathematical and Statistical Modeling
+scipy>=1.14.0
+
+# Database Interaction
+# (Standard library, no pip install needed, but good to note)
+
+# Plotting and Visualization (for your diagnostic plots)
+matplotlib>=3.9.0
+seaborn>=0.13.0
+
+# LaTeX Generation (if you decide to auto-generate tables or reports)
+# pyyaml (Optional: if you move to config-based hyperparameters)
